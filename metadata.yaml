@@ -1,0 +1,32 @@
+_repo: De-verdwijn-machine_75301
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valkenstein, Kees
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '43683'
+    url: http://www.gutenberg.org/2009/agents/43683
+description: Met illustraties van den schrijver.
+gutenberg_issued: '2025-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75301'
+language: nl
+pgterms:marc905: 20240203021721valkenstei
+pgterms:marc906: '1917'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman, Dwight Decker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aUtrecht :$bW. de Haan, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Inventions -- Juvenile fiction'
+- !lcsh 'Crime -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: De verdwijn-machine
+url: http://www.gutenberg.org/ebooks/75301
